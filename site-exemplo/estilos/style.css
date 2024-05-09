@@ -6,6 +6,9 @@
 body {
     background-color: rgb(193, 140, 243);
 }
+header img {
+    width: 500px;
+}
 
 main {
     background-color: #fff;
